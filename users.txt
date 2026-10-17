@@ -1,0 +1,7 @@
+A001|admin|pass123|YC Admin|ADMIN
+C001|counselor1|pass123|Mr. Christopher Gan Wei Hong|COUNSELOR
+C002|counselor2|pass123|Mr. Lim Chun Cheak|COUNSELOR
+R001|receptionist1|pass123|Receptionist 1|RECEPTIONIST
+R002|receptionist2|pass123|Receptionist 2|RECEPTIONIST
+S001|student1|pass123|student1|STUDENT
+S002|student2|pass123|student2|STUDENT
